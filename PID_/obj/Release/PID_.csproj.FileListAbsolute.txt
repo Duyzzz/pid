@@ -1,0 +1,11 @@
+D:\university\projects\Robocon2024\PIDapp\PIDsetup\PID_\bin\Release\PID_.exe.config
+D:\university\projects\Robocon2024\PIDapp\PIDsetup\PID_\bin\Release\PID_.exe
+D:\university\projects\Robocon2024\PIDapp\PIDsetup\PID_\bin\Release\PID_.pdb
+D:\university\projects\Robocon2024\PIDapp\PIDsetup\PID_\obj\Release\PID_.csproj.AssemblyReference.cache
+D:\university\projects\Robocon2024\PIDapp\PIDsetup\PID_\obj\Release\PID_.csproj.SuggestedBindingRedirects.cache
+D:\university\projects\Robocon2024\PIDapp\PIDsetup\PID_\obj\Release\PID_.PID_form.resources
+D:\university\projects\Robocon2024\PIDapp\PIDsetup\PID_\obj\Release\PID_.Properties.Resources.resources
+D:\university\projects\Robocon2024\PIDapp\PIDsetup\PID_\obj\Release\PID_.csproj.GenerateResource.cache
+D:\university\projects\Robocon2024\PIDapp\PIDsetup\PID_\obj\Release\PID_.csproj.CoreCompileInputs.cache
+D:\university\projects\Robocon2024\PIDapp\PIDsetup\PID_\obj\Release\PID_.exe
+D:\university\projects\Robocon2024\PIDapp\PIDsetup\PID_\obj\Release\PID_.pdb
