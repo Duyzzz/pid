@@ -54,8 +54,8 @@ all: main-build
 main-build: encoderMode.elf secondary-outputs
 
 # Tool invocations
-encoderMode.elf: $(OBJS) $(USER_OBJS) D:\university\projects\Robocon2024\PIDapp\PIDsetup\PIDtestUseEncoderMode\STM32F103C8TX_FLASH.ld
-	arm-none-eabi-gcc -o "encoderMode.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"D:\university\projects\Robocon2024\PIDapp\PIDsetup\PIDtestUseEncoderMode\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="encoderMode.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
+encoderMode.elf: $(OBJS) $(USER_OBJS) D:\university\projects\PID\pid\PIDtestUseEncoderMode\STM32F103C8TX_FLASH.ld
+	arm-none-eabi-gcc -o "encoderMode.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"D:\university\projects\PID\pid\PIDtestUseEncoderMode\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="encoderMode.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
